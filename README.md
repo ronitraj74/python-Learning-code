@@ -21,23 +21,15 @@ This is not just a repository — it's my learning timeline in code form.
 
 This repository is a central collection of all my Python work, including:
 
-Basic syntax practice
-
-Conditional statements & loops
-
-Functions & recursion
-
-Object-Oriented Programming (OOP)
-
-Data structures & algorithms
-
-File handling
-
-Problem-solving challenges
-
-Practice test solutions
-
-Competitive coding submissions
+  Basic syntax practice
+  Conditional statements & loops
+  Functions & recursion
+  Object-Oriented Programming (OOP)
+  Data structures & algorithms
+  File handling
+  Problem-solving challenges
+  Practice test solutions
+  Competitive coding submissions
 
 As I continue learning, I regularly update this repository with new concepts and improved solutions.
 
@@ -51,48 +43,33 @@ Alongside learning Python, I actively practice coding problems on:
 
 This repository contains:
 
-CodeChef contest solutions
-
-HackerRank practice problem solutions
-
-Mock test implementations
-
-Time-based coding challenge answers
-
-Algorithm optimization improvements
+  CodeChef contest solutions
+  HackerRank practice problem solutions
+  Mock test implementations
+  Time-based coding challenge answers
+  Algorithm optimization improvements
 
 Practicing on these platforms helps me:
 
-Improve problem-solving speed
-
-Strengthen logic-building skills
-
-Understand edge cases
-
-Optimize time and space complexity
-
-Prepare for technical interviews
+  Improve problem-solving speed
+  Strengthen logic-building skills
+  Understand edge cases
+  Optimize time and space complexity
+  Prepare for technical interviews
 ***
 📚 Learning Goals
 
 I am continuously working on:
 
 ✔ Mastering Python fundamentals
-
 ✔ Strengthening Data Structures & Algorithms
-
 ✔ Writing clean and efficient code
-
 ✔ Understanding problem-solving patterns
-
 ✔ Improving competitive programming rankings
 
 🔄 Learning advanced Python concepts
-
 🔄 Exploring backend development
-
 🔄 Exploring automation and scripting
-
 🔄 Building real-world projects
 ***
 📂 Repository Structure
@@ -117,35 +94,22 @@ New folders will be added as I explore more advanced topics.
 As I continue my journey, this repository will also include:
 
 Advanced DSA implementations
-
 Interview preparation problems
-
 Mini Python projects
-
 Automation scripts
-
 APIs and backend experiments
-
 Open-source contributions
-
 Performance-optimized solutions
-
 This repository will grow along with my skills.
 ***
 🎯 Why This Repository?
 
 I created this repository to:
-
 Track my coding progress
-
 Maintain a structured archive of all programs
-
 Revisit older concepts when needed
-
 Monitor improvement over time
-
 Stay consistent with daily coding practice
-
 Consistency is my goal. Improvement is my mission.
 ***
 💡 Philosophy
