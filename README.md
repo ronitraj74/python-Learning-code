@@ -90,8 +90,8 @@ Consistency builds mastery.
 Every line of code is progress.
 ***
 📬 Connect With Me
-[🏆 CodeChef](https://www.codechef.com/users/its_rsr04)
-
-[💡 HackerRank](https://www.hackerrank.com/profile/ronitrajrsr0409)
-***
-⭐ This repository grows as I grow.
+  [🏆 CodeChef](https://www.codechef.com/users/its_rsr04)
+  
+  [💡 HackerRank](https://www.hackerrank.com/profile/ronitrajrsr0409)
+  ***
+  ⭐ This repository grows as I grow.
