@@ -1,0 +1,6 @@
+Just built my first Python game 🎮
+Snake 🐍 vs Water 💧 vs Gun 🔫
+Random logic. Clean conditions. Win/Lose system.
+Small project. Big learning. 🚀
+Github Link :-https://github.com/Ronit049/Snake-Water-Gun-Python-Game
+#Python #CodingJourney #GameDev #CSStudent
