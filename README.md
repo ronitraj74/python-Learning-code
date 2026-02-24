@@ -45,9 +45,9 @@ As I continue learning, I regularly update this repository with new concepts and
 
 Alongside learning Python, I actively practice coding problems on:
 
-[🏆 CodeChef]([https://example.com](https://www.codechef.com/users/its_rsr04))
+[🏆 CodeChef](https://www.codechef.com/users/its_rsr04)
 
-[💡 HackerRank]([https://example.com](https://www.hackerrank.com/profile/ronitrajrsr0409))
+[💡 HackerRank](https://www.hackerrank.com/profile/ronitrajrsr0409)
 
 This repository contains:
 
