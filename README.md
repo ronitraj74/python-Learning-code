@@ -57,6 +57,7 @@ Competitive Programming
 Logical Thinking & Debugging
 
 📁 Repository Structure
+```
 /Basic_Python
 /Control_Statements
 /Functions
@@ -67,7 +68,7 @@ Logical Thinking & Debugging
 /HackerRank_Solutions
 /Practice_Tests
 /Projects
-
+```
 The structure will continue to evolve as I explore more advanced topics.
 ***
 📈 Current Focus
